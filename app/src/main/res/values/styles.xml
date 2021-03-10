@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DefaultButtonStyle">
+        <item name="android:textSize">@dimen/text_size_12sp</item>
+        <item name="android:layout_height">@dimen/default_button_height</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_shuffle_style</item>
+        <item name="android:padding">@dimen/default_padding_8dp</item>
+    </style>
+    <style name="FollowButtonStyle">
+        <item name="android:textSize">@dimen/text_size_10sp</item>
+        <item name="android:layout_height">@dimen/follow_button_height</item>
+        <item name="android:layout_width">@dimen/follow_button_width</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_follow_style</item>
+        <item name="android:padding">@dimen/default_padding_8dp</item>
+    </style>
+    <style name="LyricsButtonStyle">
+        <item name="android:textSize">@dimen/text_size_8sp</item>
+        <item name="android:layout_height">@dimen/follow_button_height</item>
+        <item name="android:layout_width">@dimen/follow_button_width</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/btn_lyrics</item>
+        <item name="android:padding">@dimen/default_padding_8dp</item>
+    </style>
+
+    <style name="TitleTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CaptionTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_10sp</item>
+    </style>
+
+    <style name="BodyTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_12sp</item>
+    </style>
+
+    <style name="SubTitleTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

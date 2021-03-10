@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_margin_tiny">4dp</dimen>
+    <dimen name="default_margin_small">8dp</dimen>
+    <dimen name="default_margin_medium">24dp</dimen>
+    <dimen name="default_margin_large">32dp</dimen>
+    <dimen name="default_margin_huge">46dp</dimen>
+    <dimen name="default_elevation">4dp</dimen>
+    <dimen name="default_corner_radius">20dp</dimen>
+    <dimen name="default_padding_16dp">16dp</dimen>
+    <dimen name="default_padding_8dp">8dp</dimen>
+    <dimen name="default_padding_4dp">4dp</dimen>
+
+
+    <dimen name="text_size_8sp">8sp</dimen>
+    <dimen name="text_size_10sp">10sp</dimen>
+    <dimen name="text_size_12sp">12sp</dimen>
+    <dimen name="text_size_14sp">14sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+
+
+    <dimen name="default_button_height">50sp</dimen>
+    <dimen name="button_width">170sp</dimen>
+
+    <dimen name="ic_size_16dp">16dp</dimen>
+
+    <dimen name="follow_button_height">40sp</dimen>
+    <dimen name="follow_button_width">100sp</dimen>
+</resources>
